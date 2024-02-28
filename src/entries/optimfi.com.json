@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "optimfi.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1kvduf3n9ds74xwzdr0ecwd02zhccrrrk39j0ja"
+  ],
+  "description": "Fake OPTIM Reward Token"
+}
