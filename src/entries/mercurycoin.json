@@ -1,0 +1,9 @@
+{
+  "domains": [
+    "mercurycoin.net"
+  ],
+  "associated_addresses": [
+    "addr1q8hwmy3tnnfjfmy98zklkvqxahg3ds32j546sckaa89357wxxdamwywz82da0nnk4zet880hg83fgfje9p2n7hk5340s8udq4e"
+  ],
+  "description": "Fake token mint DApp prompting transactions that take assets and ADA"
+}

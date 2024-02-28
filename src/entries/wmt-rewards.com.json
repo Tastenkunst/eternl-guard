@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "wmt-rewards.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1uqdcpu7fqw49e5z9mwuw2ekjqrry23vkcjc2sn"
+  ],
+  "description": "Fake WMT Reward claim"
+}

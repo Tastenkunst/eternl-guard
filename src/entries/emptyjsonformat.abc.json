@@ -1,0 +1,12 @@
+{
+  "domains": [
+    "domain.extension"
+  ],
+  "associated_addresses": [
+    "addr..."
+  ],
+  "related_assets": [
+    "asset1...."
+  ],
+  "description": "A description of the scam method (not required)"
+}

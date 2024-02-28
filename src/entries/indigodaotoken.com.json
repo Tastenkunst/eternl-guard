@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "indigodaotoken.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1p9eeh40q5qg76xt324qxktd7s6f25edtdj7jw5",
+    "asset1q03s6t98y73rfumn6hgt7zdnge3x8rym7hpvra"
+  ],
+  "description": "Fake Indigo Rewards claim"
+}

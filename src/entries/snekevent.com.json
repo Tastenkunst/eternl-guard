@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "snekevent.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1gv7ld76myqxcscknmqrnejxd0exyg2z73e3m4c"
+  ],
+  "description": "Airdropped token referring to a fake SNEK claim event DApp that generates token stealing transactions"
+}

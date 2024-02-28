@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "stablecoinada.org"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1mfh08ss0hcx2vt96mvk7jqrywyekqwhkmhq50u"
+  ],
+  "description": "Fake STABLE migration claim"
+}
