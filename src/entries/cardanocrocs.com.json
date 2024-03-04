@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "cardanocrocs.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1efz3we0lwsd3g5ltva5tg7nts8jptmqaz9mms2"
+  ],
+  "description": "Fake CCC Reward Token"
+}
