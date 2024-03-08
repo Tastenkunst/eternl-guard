@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "ecostaking.org"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1gx2e954pt5jnw3vh9ym69nnxhve6u27an473w2"
+  ],
+  "description": "Airdropped token referring to a fake ECOStaking reward event DApp that generates token stealing transactions"
+}

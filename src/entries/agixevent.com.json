@@ -4,7 +4,8 @@
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset19pnfclggzpj7szjut33dwusd6qw60r3d9kgege"
+    "asset19pnfclggzpj7szjut33dwusd6qw60r3d9kgege",
+    "asset1u762ax7swfhv05j7q6qddq65459s55yx9w0c3k"
   ],
   "description": "Airdropped token referring to a fake Agix claim event DApp that generates token stealing transactions"
 }
