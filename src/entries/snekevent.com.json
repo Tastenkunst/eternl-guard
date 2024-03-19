@@ -4,7 +4,8 @@
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1gv7ld76myqxcscknmqrnejxd0exyg2z73e3m4c"
+    "asset1gv7ld76myqxcscknmqrnejxd0exyg2z73e3m4c",
+    "asset19vnt0smagj4wxdvhym4w6d3z0ertgxgkmh43lx"
   ],
   "description": "Airdropped token referring to a fake SNEK claim event DApp that generates token stealing transactions"
 }
