@@ -1,18 +1,17 @@
 const Ajv = require("ajv").default;
 const addFormats = require("ajv-formats").default;
 const fs = require("fs");
-const { execSync } = require("child_process");
+const path = require("path");
 
 const ajv = new Ajv();
 addFormats(ajv);
 
-// Define or load your JSON schema here
 const schema = {
   type: "object",
   properties: {
     domains: {
       type: "array",
-      items: { type: "string" }
+      items: { type: "string" },
     },
     associated_addresses: {
       type: "array",
@@ -22,25 +21,46 @@ const schema = {
       type: "array",
       items: { type: "string" }
     },
-    description: { type: "string" }
+    description: {
+      type: "string"
+    }
   },
   required: ["domains", "associated_addresses", "related_assets", "description"],
   additionalProperties: false
 };
 
-const validate = ajv.compile(schema);
 
-// Execute a git command to find newly added JSON files in src/entries
-const files = execSync("git diff --cached --name-only --diff-filter=A src/entries/*.json", { encoding: 'utf8' })
-  .split('\n')
-  .filter(file => file.endsWith('.json'));
-
-files.forEach(file => {
-  const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  if (!validate(data)) {
-    console.error(`Validation failed for ${file}:`, validate.errors);
-    process.exit(1); // Fail the workflow if any file doesn't validate
+function validateFile(filePath) {
+  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  const validate = ajv.compile(schema);
+  const valid = validate(data);
+  if (!valid) {
+    console.error(`Validation failed for ${filePath}:`, validate.errors);
+    return false;
   }
-});
+  return true;
+}
 
-console.log("All new JSON files are valid.");
+function main() {
+  const directoryPath = path.join(__dirname, 'src/entries');
+  const files = fs.readdirSync(directoryPath);
+  let allValid = true;
+
+  files.forEach(file => {
+    if (file.endsWith('.json')) {
+      const filePath = path.join(directoryPath, file);
+      const isValid = validateFile(filePath);
+      if (!isValid) {
+        allValid = false;
+      }
+    }
+  });
+
+  if (!allValid) {
+    throw new Error("One or more JSON files do not conform to the specified schema.");
+  } else {
+    console.log("All JSON files in src/entries conform to the specified schema.");
+  }
+}
+
+main();
