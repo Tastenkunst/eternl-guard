@@ -3,6 +3,8 @@
     "wmt-reward.com"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ "asset1z5j2e7ah9j4pltm6mpxsevx9xskwy5x0u3x82u" ],
-  "description": "Fake WMT Reward Token"
+  "related_assets": [ 
+    "asset1z5j2e7ah9j4pltm6mpxsevx9xskwy5x0u3x82u" 
+  ],
+  "description": "Fake WMT Rewards Token"
 }

@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "everstake-reward.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [ 
+    "asset12x2fq0j22wxfhpg3479zc7sfhwllawmz5mdn9t" 
+  ],
+  "description": "Fake Everstake Reward Token"
+}

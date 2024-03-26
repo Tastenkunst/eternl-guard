@@ -3,6 +3,8 @@
     "iagon-stake.com"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ "asset12w7szua0mg6phjj5lc92c0lgyjr8msrvws76r6" ],
-  "description": "Fake IAGON liquidity token"
+  "related_assets": [ 
+    "asset12w7szua0mg6phjj5lc92c0lgyjr8msrvws76r6" 
+  ],
+  "description": "Fake IAGON Stake LP Token"
 }

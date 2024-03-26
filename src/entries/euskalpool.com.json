@@ -3,6 +3,8 @@
     "euskalpool.com"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ "asset1gdthdw58eqcz0p6nfjezp4uu7s72lcvcall77j" ],
+  "related_assets": [ 
+    "asset1gdthdw58eqcz0p6nfjezp4uu7s72lcvcall77j" 
+  ],
   "description": "Fake EUSKL Reward Token"
 }

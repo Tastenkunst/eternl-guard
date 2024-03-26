@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "kubecoin.net"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [ 
+    "asset16u5u73edjg8z58ft95el27rzufp8u86u8550s5" 
+  ],
+  "description": "Fake swap to $KUBE"
+}

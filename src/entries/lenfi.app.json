@@ -3,6 +3,8 @@
     "lenfi.app"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ "asset1sqc3chnxfxaz22p0ekxhchpa8arz3s0rqdh6ay" ],
-  "description": "Fake Lenfi Reward Token"
+  "related_assets": [ 
+    "asset1sqc3chnxfxaz22p0ekxhchpa8arz3s0rqdh6ay" 
+  ],
+  "description": "Fake additional $LENFI rewards"
 }

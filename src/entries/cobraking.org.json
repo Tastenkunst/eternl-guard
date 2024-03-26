@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "cobraking.org"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1thf95ut724pxay5uvg3hkv3ajtn8ysce0uxlhn"
+  ],
+  "description": "Fake Cobraking Claim"
+}

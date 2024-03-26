@@ -3,6 +3,9 @@
     "linkagefinance.com"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ "asset1kktzguknfeg7tv62579ds2n5z53gqh67xcj2hz" ],
-  "description": "Fake Lifi Reward Ticket"
+  "related_assets": [ 
+    "asset1kktzguknfeg7tv62579ds2n5z53gqh67xcj2hz",
+    "asset1rshgv4s3vx5kg84w0ha4dqykvk4gqscag53k6l"
+  ],
+  "description": "Fake $LIFI rewards"
 }
