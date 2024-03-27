@@ -1,10 +1,11 @@
 {
   "domains": [
-    "lenfi.app"
+    "lenfi.app",
+    "lenfi"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ 
-    "asset1sqc3chnxfxaz22p0ekxhchpa8arz3s0rqdh6ay" 
+  "related_assets": [
+    "asset1sqc3chnxfxaz22p0ekxhchpa8arz3s0rqdh6ay"
   ],
   "description": "Fake additional $LENFI rewards"
 }

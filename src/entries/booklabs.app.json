@@ -1,6 +1,7 @@
 {
   "domains": [
-    "booklabs.app"
+    "booklabs.app",
+    "booklabs"
   ],
   "associated_addresses": [ ],
   "related_assets": [

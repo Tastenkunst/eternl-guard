@@ -1,15 +1,20 @@
 {
   "allowlist": [
+    "ashib.io",
+    "axo.trade",
     "cornucopias.io",
     "dripdropz.io",
     "geniusyield.co",
     "hosky.io",
     "iagon.com",
     "meld.com",
+    "lenfi.io",
     "liqwid.finance",
+    "newm.io",
     "snek.com",
     "spacebudz.io",
     "sundae.fi",
+    "wingriders.com",
     "worldmobiletoken.com"
   ],
   "description": "A list of known valid project urls"
