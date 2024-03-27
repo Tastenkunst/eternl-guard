@@ -1,6 +1,7 @@
 {
   "domains": [
-    "snek.events"
+    "snek.events",
+    "snek"
   ],
   "associated_addresses": [ ],
   "related_assets": [

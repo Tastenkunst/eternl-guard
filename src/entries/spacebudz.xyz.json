@@ -1,9 +1,10 @@
 {
   "domains": [
-    "spacebudz.xyz"
+    "spacebudz.xyz",
+    "spacebudz"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ 
+  "related_assets": [
     "asset17jwadpk66q8zxk9z76rcg5y662yvuf0ztwxywa"
   ],
   "description": "Fake SpaceBudz free mint"
