@@ -1,10 +1,11 @@
 {
   "domains": [
-    "nunet-reward"
+    "nunets",
+    "nunet"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1kxe20k05n6w2kdkxks0xqrca2nda3u63gd9252"
+    "asset169awnqkx5g8jaak0ulz23mamqre92prelmx9j8"
   ],
   "description": "Fake NTX Utility token Reward Claim"
 }
