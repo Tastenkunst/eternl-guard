@@ -1,10 +1,11 @@
 {
   "domains": [
-    "cardanogpt.org"
+    "cardanogpt"
   ],
   "associated_addresses": [ ],
-  "related_assets": [ 
-    "asset1qsz5w5e4k3th8kdnt67rcjxhvuvkzvluky37vn"
+  "related_assets": [
+    "asset1qsz5w5e4k3th8kdnt67rcjxhvuvkzvluky37vn",
+    "asset1n0vpawfdex67hvwmqqrgxdagkp0eqf5zcafu8a"
   ],
   "description": "Fake CGI rewards"
 }
