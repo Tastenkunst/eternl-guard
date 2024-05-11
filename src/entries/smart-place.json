@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "smart-place",
+    "smart-places"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1kpe289uhztxtft8hhktm9xgvm5th73nca5n344"
+  ],
+  "description": "Fake Space Places"
+}
