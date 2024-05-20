@@ -1,0 +1,39 @@
+{
+  "domains": [
+    "iagon",
+    "iagon-labs",
+    "iagon-drop",
+    "iagon-airdrop",
+    "iagon-airdrops",
+    "iagon-reward",
+    "iagon-rewards",
+    "iagon-event",
+    "iagon-events",
+    "iagon-nft",
+    "iagon-nfts",
+    "iagon-stake",
+    "iagon-staking",
+    "iagonlabs",
+    "iagondrop",
+    "iagonairdrop",
+    "iagonairdrops",
+    "iagonreward",
+    "iagonrewards",
+    "iagonevent",
+    "iagonevents",
+    "iagonnft",
+    "iagonnfts",
+    "iagonstake",
+    "iagonstaking"
+  ],
+  "associated_addresses": ["addr1q90gcv26u7gkcnd85mysl02d5f0wjd6cajve4626zktzg5fan48jlj8h3y55naezt74mt45sf2uezjcm0yty0k4jgg9q8dpuvh"],
+  "related_assets": [
+    "asset1yjg90cu5j7h3qq9v7kf3qvcqf5jj2wqnfgyvur",
+    "asset17c2cn48kuhrlaxvakfmydny2wmzv8ttua3g2dk",
+    "asset1686wvuazzellethk24tnrtpacrzhkml228ua2q",
+    "asset12w7szua0mg6phjj5lc92c0lgyjr8msrvws76r6",
+    "asset1du60l7w53espqcf8upkgpujpkzeamccnkny4hy",
+    "asset190j6y2ckf78f7qj9e2q5045zk8fm8dg7vz2h9c"
+  ],
+  "description": "Fake IAG Reward Claim"
+}

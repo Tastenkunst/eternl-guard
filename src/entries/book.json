@@ -1,11 +1,37 @@
 {
   "domains": [
-    "book-drop.com",
-    "book-drop"
+    "book",
+    "book-labs",
+    "book-drop",
+    "book-airdrop",
+    "book-airdrops",
+    "book-reward",
+    "book-rewards",
+    "book-event",
+    "book-events",
+    "book-nft",
+    "book-nfts",
+    "book-stake",
+    "book-staking",
+    "booklabs",
+    "bookdrop",
+    "bookairdrop",
+    "bookairdrops",
+    "bookreward",
+    "bookrewards",
+    "bookevent",
+    "bookevents",
+    "booknft",
+    "booknfts",
+    "bookstake",
+    "bookstaking"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1230hjrgcedf90c2qztlq7ex9vja5e2rel765d4"
+    "asset1230hjrgcedf90c2qztlq7ex9vja5e2rel765d4",
+    "asset1gjvgjul0ykaydn6quc976z807s2f6wnw0k5s59",
+    "asset1gghgp0rtmyyr9rw36t363h0rpcaafm0fnav38q",
+    "asset1ny8ag6k4dexewyzx8kve9uv68rlkdfhyyygr98"
   ],
   "description": "Fake BOOK Token Reward"
 }
