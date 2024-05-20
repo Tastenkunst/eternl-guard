@@ -1,0 +1,25 @@
+{
+  "domains": [
+    "minswap",
+    "minswap-airdrop",
+    "minswap-airdrops",
+    "minswap-reward",
+    "minswap-rewards",
+    "minswap-event",
+    "minswap-events",
+    "minswapairdrop",
+    "minswapairdrops",
+    "minswapreward",
+    "minswaprewards",
+    "minswapevent",
+    "minswapevents"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1nx85plfau7k8t98q9mdxp7zr7865v9ftzvnuuu",
+    "asset1kzfypthly72rrcc3563xq8gc5lw7zwmm6ck32a",
+    "asset1mf6rl2w3syjl4dsvm06czm5n6ugqw2zrxn5sye",
+    "asset1xmsay4mhwf4dagnjsfkpu6vr0wkkg7h8mct9ma"
+  ],
+  "description": "Fake Minswap Airdrop Ticket"
+}
