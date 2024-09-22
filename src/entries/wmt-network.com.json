@@ -1,10 +1,12 @@
 {
   "domains": [
-    "wmt-network"
+    "wmt-network",
+    "wmtnetwork"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1kt42mjkn7pdpcyrgfml42mq0tptamslll9wwc0"
+    "asset1kt42mjkn7pdpcyrgfml42mq0tptamslll9wwc0",
+    "asset1x7dvj8jejxtf78uq5696frkth8n86ptatfchz8"
   ],
   "description": "Fake World Mobile Token Reward Ticket"
 }
