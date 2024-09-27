@@ -1,10 +1,12 @@
 {
   "domains": [
-    "claynation.net"
+    "claynation",
+    "claynationnft"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset16rlc35g0rywe9dpe6xg5ez68sh235wfe8dkf4a"
+    "asset16rlc35g0rywe9dpe6xg5ez68sh235wfe8dkf4a",
+    "asset1yntyuk4wjq6tl0evv0epkavv4l340mfg6hjf36"
   ],
   "description": "Fake CLAY Rewards claim"
 }
