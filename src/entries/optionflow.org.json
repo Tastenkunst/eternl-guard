@@ -1,10 +1,11 @@
 {
   "domains": [
-    "optionflow.org"
+    "optionflow"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1xthq94pmjxddz9xm6245l3cf79p9sm420ry328"
+    "asset1xthq94pmjxddz9xm6245l3cf79p9sm420ry328",
+    "asset1fsh35eqh6durc559dkqusjhgq4p0vwkym70h8m"
   ],
   "description": "Airdropped token referring to a fake OPT claim event DApp that generates token stealing transactions"
 }
