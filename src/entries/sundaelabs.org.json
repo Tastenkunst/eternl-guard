@@ -1,7 +1,7 @@
 {
   "domains": [
-    "sundaelabs.org",
-    "sundaelabs"
+    "sundaelabs",
+    "sundaedao"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -9,7 +9,9 @@
     "asset170heqtwptvna3ty7k5vqw7m64ttfc2549hc5pg",
     "asset1pcjtu5kzw3pkkkwg6hxaps6k20uc577xu49a0d",
     "asset1js9luqtcp4jltp0ke2aj64dfqu3r9rrq53cl77",
-    "asset14fds30mfzf2uhezkrrvxknw7yq5qt33gehz8qg"
+    "asset14fds30mfzf2uhezkrrvxknw7yq5qt33gehz8qg",
+    "asset1de8802cdz58d2m39ahxxve97up635unl7mycqa",
+    "asset1gd3e0ch8c4awa8w4r7q4v3p75a2cjg07a9qadp"
   ],
   "description": "Fake SUNDAE Rewards claim"
 }
