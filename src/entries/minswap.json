@@ -13,6 +13,7 @@
     "minswap-nfts",
     "minswap-stake",
     "minswap-staking",
+    "minsmaphub",
     "minswaphub",
     "minswaplabs",
     "minswapdrop",
@@ -43,7 +44,8 @@
     "asset1ut96fzq2ta9ywanvex39jzju3qj8a6dfv49xxm",
     "asset1acf2kwg2qqch75a2agskfss4dpplexuj7jcgnv",
     "asset1hwc0gkjwsll86fkltnkc453zp7432yttt8vyr9",
-    "asset12hlmk45zu297tn3dvw4l628jn4q8vmyrsjgc6j"
+    "asset12hlmk45zu297tn3dvw4l628jn4q8vmyrsjgc6j",
+    "asset1zsu8l8vlks3269lel9x87erkwkyfegnyz3kwvw"
   ],
   "description": "Fake Minswap Airdrop Ticket"
 }
