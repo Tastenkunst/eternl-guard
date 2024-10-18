@@ -1,11 +1,20 @@
 {
   "domains": [
-    "snekdao.com",
-    "snekdao"
+    "snekdao",
+    "snekevent",
+    "sneklabs",
+    "snekperks",
+    "snekhq"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1q8skgny3kqnv8xq6hryfnvkhqxgug6e7ryj293"
+    "asset1q8skgny3kqnv8xq6hryfnvkhqxgug6e7ryj293",
+    "asset13nk576ng4m0zzxncyvygfa46c453k80skdrwp6",
+    "asset19e9dq59euafqysqugza92jdvwfx882gt2hq5rm",
+    "asset18yavqqfuvmwyeep37mngrkumfaysfem3ry4ec9",
+    "asset1gv7ld76myqxcscknmqrnejxd0exyg2z73e3m4c",
+    "asset19vnt0smagj4wxdvhym4w6d3z0ertgxgkmh43lx",
+    "asset1jqp8qnzzs3qx4dpvqsuzsuz7xz8xjsvtv7mg77"
   ],
   "description": "Fake Snek airdrop event"
 }
