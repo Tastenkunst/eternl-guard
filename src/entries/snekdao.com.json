@@ -4,7 +4,8 @@
     "snekevent",
     "sneklabs",
     "snekperks",
-    "snekhq"
+    "snekhq",
+    "snekhub"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -14,7 +15,8 @@
     "asset18yavqqfuvmwyeep37mngrkumfaysfem3ry4ec9",
     "asset1gv7ld76myqxcscknmqrnejxd0exyg2z73e3m4c",
     "asset19vnt0smagj4wxdvhym4w6d3z0ertgxgkmh43lx",
-    "asset1jqp8qnzzs3qx4dpvqsuzsuz7xz8xjsvtv7mg77"
+    "asset1jqp8qnzzs3qx4dpvqsuzsuz7xz8xjsvtv7mg77",
+    "asset1c5cyrdsmyqas67hzx9ycz09chrkgn7w5fe7frn"
   ],
   "description": "Fake Snek airdrop event"
 }
