@@ -1,12 +1,15 @@
 {
   "domains": [
-    "spectrumlabs.app"
+    "spectrumlabs",
+    "spectrumfi",
+    "spectrum"
   ],
   "associated_addresses": [ ],
   "related_assets": [
     "asset15l26qkxyvxc98utmx34lvr5upclun6w8axq6u0",
     "asset1jf8cwnev8ekmkg0r36ewwqg6pwen4vmywl39jz",
-    "asset1r9duay9qn5dy3yjq9dpradqrrm2nky4jmqxj9w"
+    "asset1r9duay9qn5dy3yjq9dpradqrrm2nky4jmqxj9w",
+    "asset1jtk6zm08lrftstgp0w46f4e4hpkrtlpmqr5940"
   ],
   "description": "Fake $SPF rewards claim"
 }
