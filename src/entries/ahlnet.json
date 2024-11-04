@@ -5,7 +5,10 @@
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1hpf43ze9s738xxkra7wvy84fa4x006f488pc7s"
+    "asset1hpf43ze9s738xxkra7wvy84fa4x006f488pc7s",
+    "asset16yxxgpyzcmtg02eajlk58tcr8wcafljgcdpdzp",
+    "asset1j30w3a0wymch2vmgewv0ehwqyswr0wrqgxaxys",
+    "asset1pfqx8agm5wxleuwy5wddz7e2kehw0ff7zsvpkn"
   ],
   "description": "Fake additional reward token'"
 }

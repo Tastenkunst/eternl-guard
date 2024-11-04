@@ -1,15 +1,15 @@
 {
   "domains": [
-    "lenfi.app",
-    "lenfi.org",
     "lenfi",
-    "Lenfinance"
+    "lenfilabs",
+    "lenfinance"
   ],
   "associated_addresses": [ ],
   "related_assets": [
     "asset1sqc3chnxfxaz22p0ekxhchpa8arz3s0rqdh6ay",
     "asset1ptejdcjvpva76t9mujkt4y6astc0hmatnphymt",
-    "asset1240zc688e9dkjlr33ds74qu2k8jn7z9cw2s5ah"
+    "asset1240zc688e9dkjlr33ds74qu2k8jn7z9cw2s5ah",
+    "asset1t5fwdeesjrdgfvnksm8tqcmyj3rghpptfw4vkv"
   ],
   "description": "Fake additional $LENFI rewards"
 }

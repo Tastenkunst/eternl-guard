@@ -3,10 +3,12 @@
     "cornucopiasnft",
     "cornucopias",
     "copy-event",
-    "copiada"
+    "copiada",
+    "cocopias"
   ],
   "associated_addresses": [ ],
   "related_assets": [
+    "asset176zd2svr5xd9jnh0hpf0pfmn6derevlvdc0kh4",
     "asset15xksazrh99c7kksd7sspx40ercf2z8dzmqaqju",
     "asset1qfjk9sj646xslm9hz5dvrcaj8grd39xsl7arm7",
     "asset1lzd8gj7y0ev4jhml3vv5la2p9ekjstc8ja6xu6",
@@ -15,7 +17,9 @@
     "asset1fgysmxwpxugz56ngcj9gfgde4n2ts2fswzzq79",
     "asset1wscsymlwv96tjxrfpcmpwn8pdj2qxay8dkkcfw",
     "asset1rcd3jc55tce4rqfx7lsvxsrazlpz32t8s3ecnk",
-    "asset10tnw4n9t9s6men3k3r0e6zm9qluc56ca9cdr0j"
+    "asset10tnw4n9t9s6men3k3r0e6zm9qluc56ca9cdr0j",
+    "asset18qfjfeezx7v6ey49mhdd7kpczwm7w4jh5e30g7",
+    "asset176zd2svr5xd9jnh0hpf0pfmn6derevlvdc0kh4"
   ],
   "description": "Fake Cornucopias NFT Migration"
 }
