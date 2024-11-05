@@ -1,0 +1,14 @@
+{
+  "domains": [
+    "adafren",
+    "adafren.net",
+    "adafren.org"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1v7dr9zheuklrnq45py3pxztcavk435ypqesyve",
+    "asset1c0g26xy7e9c4c7pcckgcw98t8sa5qn5zsn6rm0",
+    "asset15sse3zullnj836xfscrcveg4dqxfsp0xp40pq8"
+  ],
+  "description": "Fake FREN Reward Claim"
+}
