@@ -10,7 +10,8 @@
     "snek",
     "snekx",
     "snekhq",
-    "snekpot"
+    "snekpot",
+    "snekfy"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -27,7 +28,11 @@
     "asset164n3c590rnaypjfrt2aujxaelf968lg4qq2zed",
     "asset1xavx599vp6tg30sx9dj5qqhrqu6h3tar5vrnt3",
     "asset186pzd68sqjg63y48plyjdkzt44adrcvjg9stzh",
-    "asset1c5cyrdsmyqas67hzx9ycz09chrkgn7w5fe7frn"
+    "asset1c5cyrdsmyqas67hzx9ycz09chrkgn7w5fe7frn",
+    "asset1f7jw9vlf3hh2hv6eq4mpxahrz4kuqt9rtecj23",
+    "asset1jtq05vcjvwvcrz6a9fcp5q2m82zkfea0us7ww0",
+    "asset1sv8qgl39hlkuxq0fnfkqwej7dt49ma9dwfrule",
+    "asset1wmhyt5uz9gvxdaucmgrcu4xneh3ysuu3g9c982"
   ],
   "description": "Fake Snek airdrop event"
 }
