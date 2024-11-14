@@ -1,0 +1,14 @@
+{
+  "domains": [
+    "linkberrypool.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [ 
+    "asset162l4ezv9zth8s2psx0kew2ljtg5kduscgqpcal",
+    "asset1ewjhrfpykfpgu6zqty9rr4zmuxuawuse54s6sg",
+    "asset1yg0uf7vzkpnng687f8pfljmgjrzt5xtw55nv8n",
+    "asset1vutkmgyuwysfnjnz3g8cmv0le58tclesn523rt",
+    "asset1wuwsa4ezlvwjswk7s8jqdwz3uvgmm96gk9layp"
+  ],
+  "description": "Fake LinkBerry ISPO Reward Token"
+}

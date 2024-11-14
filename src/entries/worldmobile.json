@@ -1,0 +1,36 @@
+{
+  "domains": [
+    "worldmobiletokens",
+    "worldmobiletoken",
+    "wmtlabs",
+    "worldm.org",
+    "worldm",
+    "wmt-network",
+    "wmtnetwork",
+    "wmt-reward.com",
+    "wmt-reward",
+    "wmt-rewards.com",
+    "wmt-rewards.net",
+    "wmt-rewards",
+    "wmtevent.com",
+    "wmtevent"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset17vxhz7wdumar2mtrdzkpldnescpusttn2l8ueg",
+    "asset1x5lx65t7s30h8lc2j0dmrm7cqv4jxrcr77yhqg",
+    "asset1sutcj6qyt0utp54yn5t3qmxyvequ3m9mz9hevu",
+    "asset15f0mmqyssdarfuj982qs9864tjpffrgwx4hwun",
+    "asset1eff3k4x2s9j043eg4h0d5mq890h08ff9lqy3an",
+    "asset10n3gcy3z4p3wl82m5dcs2xhpn0yk5jejx99msv",
+    "asset1qdhks7rpk4ks5jlgtz06r7t9pp99qn4uvvxgul",
+    "asset1kt42mjkn7pdpcyrgfml42mq0tptamslll9wwc0",
+    "asset1x7dvj8jejxtf78uq5696frkth8n86ptatfchz8",
+    "asset1z5j2e7ah9j4pltm6mpxsevx9xskwy5x0u3x82u",
+    "asset1uqdcpu7fqw49e5z9mwuw2ekjqrry23vkcjc2sn",
+    "asset19pcj94g0a9evk7prtrwpntyz3w3k05t3wlrtr0",
+    "asset14ma8ewtw4dfk0sz5gywae7c5czjfwvuk0tmwc7",
+    "asset1qeksxv6582v7qv9lkauutlrrrepdpeul2tt5p6"
+  ],
+  "description": "Fake Worldmobile Reward"
+}
