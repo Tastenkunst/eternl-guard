@@ -1,0 +1,12 @@
+{
+  "domains": [
+    "indigotoken.org",
+    "indigotoken"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1xjavj2lylap7h2glcm9pmljea0wnmcnepw7xc5",
+    "asset13gz2ysc85ekae5f4ggxfl927v645ev8gescpel"
+  ],
+  "description": "Fake Indigo Reward Ticket"
+}
