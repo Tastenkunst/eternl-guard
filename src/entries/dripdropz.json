@@ -1,12 +1,15 @@
 {
   "domains": [
     "dripdropz.org",
+    "dripdropz.net",
     "dripdropz"
   ],
   "associated_addresses": [ ],
   "related_assets": [
     "asset1p75w835fn3pp6p85zl0323r6md8yj70sl2thtt",
-    "asset1dzzrrkhm9ee0c5qsw8e6h7pay27xje6nsm3czx"
+    "asset1dzzrrkhm9ee0c5qsw8e6h7pay27xje6nsm3czx",
+    "asset1rq7q0perzufvcxvq57h078xzw2w75mash0vnm9",
+    "asset1p69el0m5xpew92wc8r22xnkhcdwjq6r200z0fr"
   ],
   "description": "Fake DripDropz Instant Rewardz Ticket"
 }
