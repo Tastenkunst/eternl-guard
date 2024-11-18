@@ -12,7 +12,8 @@
     "snekhq",
     "snekpot",
     "snekfy",
-    "snekvault"
+    "snekvault",
+    "snekprize"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -34,7 +35,8 @@
     "asset1jtq05vcjvwvcrz6a9fcp5q2m82zkfea0us7ww0",
     "asset1sv8qgl39hlkuxq0fnfkqwej7dt49ma9dwfrule",
     "asset1wmhyt5uz9gvxdaucmgrcu4xneh3ysuu3g9c982",
-    "asset15jc57dtwg6r8terpwpldhdvr2d56krrht3gh37"
+    "asset15jc57dtwg6r8terpwpldhdvr2d56krrht3gh37",
+    "asset1h46ee9xfkfzzncdf48d56zck3pw4s66zwcwt8l"
   ],
-  "description": "Fake Snek airdrop event"
+  "description": "Fake Snek Event"
 }
