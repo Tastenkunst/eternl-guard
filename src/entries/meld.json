@@ -1,0 +1,32 @@
+{
+  "domains": [
+    "meld-airdrop.com",
+    "meld-airdrop",
+    "meld-reward",
+    "meld-rewards",
+    "meld-airdrop",
+    "meld-airdrops",
+    "meldreward",
+    "meldrewards",
+    "meldairdrop",
+    "meldairdrops",
+    "meld-event.com",
+    "meld-event",
+    "meldlabs.org",
+    "meldlabs",
+    "meld-dao.xyz"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset153snxn5zln6ytx2v87lgjd0wzrenp08lgs88mk",
+    "asset1nfgxznjjt6304ehjpnlx8lx88j99x3ly4ex37m",
+    "asset1vlusvk48e9f6800p73c5megncqzcn92kl89kry",
+    "asset1r9xxlpslpsepdzpw9nek7fh7hhggk20fzkuy2v",
+    "asset1xj0xwegsp2pv6epfvp3w6s6ueeqtprgppm3zas",
+    "asset1frj3xmwpq2ar978dppxd9nj9xxythxfrpdjcc3",
+    "asset1jjzahxsyduyj33n22tggh5sr29k2ramlxau8wt",
+    "asset1y2ft82pqenh0daqsaprecqnjgscfgv3fsdpumt",
+    "asset1ue6f3vjtglj86uatw9mznh3xuj2v50acm887zh"
+  ],
+  "description": "Fake MELD Airdrop"
+}
