@@ -1,0 +1,14 @@
+{
+  "domains": [
+    "pavia-dao",
+    "pavia-network",
+    "pavia-rewards"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1fm6w28uzhjm9jykl9j9tce40ljfjrr356jhcw3",
+    "asset1p6t6wwvhwxgame7j2zvhmffrllt9fhqtg0rcn6",
+    "asset1txkcmm34kwrknlftklhjsqcewmxdtankh99dtj"
+  ],
+  "description": "Fake Pavia DAO"
+}
