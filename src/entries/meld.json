@@ -10,6 +10,7 @@
     "meldrewards",
     "meldairdrop",
     "meldairdrops",
+    "meldcardano",
     "meld-event.com",
     "meld-event",
     "meldlabs.org",
@@ -26,7 +27,8 @@
     "asset1frj3xmwpq2ar978dppxd9nj9xxythxfrpdjcc3",
     "asset1jjzahxsyduyj33n22tggh5sr29k2ramlxau8wt",
     "asset1y2ft82pqenh0daqsaprecqnjgscfgv3fsdpumt",
-    "asset1ue6f3vjtglj86uatw9mznh3xuj2v50acm887zh"
+    "asset1ue6f3vjtglj86uatw9mznh3xuj2v50acm887zh",
+    "asset1hktnjh40k4w2euudpqmrv580nspz95f0wlvygs"
   ],
   "description": "Fake MELD Airdrop"
 }
