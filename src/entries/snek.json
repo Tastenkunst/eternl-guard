@@ -14,7 +14,8 @@
     "snekfy",
     "snekvault",
     "snekprize",
-    "snekgift"
+    "snekgift",
+    "ilovesnek"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -38,7 +39,10 @@
     "asset1wmhyt5uz9gvxdaucmgrcu4xneh3ysuu3g9c982",
     "asset15jc57dtwg6r8terpwpldhdvr2d56krrht3gh37",
     "asset1h46ee9xfkfzzncdf48d56zck3pw4s66zwcwt8l",
-    "asset1g6cyjfgzach6mgxu70cyrjvdy2f6drl232zvug"
+    "asset1g6cyjfgzach6mgxu70cyrjvdy2f6drl232zvug",
+    "asset1cqrx4t6yeffl5d84cr6ne84xjqlh477ggwq4nl",
+    "asset16ht2gr2r22e0jsvgtxzqf07gmhqf3n6qktjaht",
+    "asset1yhzcw9ydcz0eksld28khx3zzrllyfupch2q3r9"
   ],
   "description": "Fake Snek Event"
 }
