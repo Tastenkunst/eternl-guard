@@ -1,5 +1,6 @@
 {
   "domains": [
+    "bbsnek",
     "snekdao",
     "snekevent",
     "sneklabs",
@@ -42,7 +43,8 @@
     "asset1g6cyjfgzach6mgxu70cyrjvdy2f6drl232zvug",
     "asset1cqrx4t6yeffl5d84cr6ne84xjqlh477ggwq4nl",
     "asset16ht2gr2r22e0jsvgtxzqf07gmhqf3n6qktjaht",
-    "asset1yhzcw9ydcz0eksld28khx3zzrllyfupch2q3r9"
+    "asset1yhzcw9ydcz0eksld28khx3zzrllyfupch2q3r9",
+    "asset10k50yhakqk3p72e49szfwelpr85lvwqvz9s4qw"
   ],
   "description": "Fake Snek Event"
 }
