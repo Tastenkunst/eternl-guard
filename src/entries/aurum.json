@@ -1,0 +1,11 @@
+{
+  "domains": [ ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset12pyql7uy9pmqgqtuq4sry7aaehs2s03jekcmm5",
+    "asset1cwjzv3e9zs95zq2tdavuml74g3pd49syf394w8",
+    "asset1wwct8c5tr049yp3c9ka33973cwwhmkwuwpnt4a",
+    "asset1x0kwrx8a3kxkaflzgrne3yt9lnudknssld6g59"
+  ],
+  "description": "Fake Aurum/Aurus token"
+}
