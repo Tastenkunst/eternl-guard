@@ -4,7 +4,11 @@
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1x79anv5v5r2dc2vny5cfymcm65hgh6ekktyetv"
+    "asset1x79anv5v5r2dc2vny5cfymcm65hgh6ekktyetv",
+    "asset1a7nu42rw0huxna3d3al56aerclylzcju3vmwhm",
+    "asset1ya8wpz05pky4qewdn6nd4hwgmej7knkv37v0dc",
+    "asset1vhcjwn9t50q2845ud5nserv30zwgd3psqvmkek",
+    "asset1mxlae5s4ag62jrghq95lmxr3dn7rway9ha04xa"
   ],
   "description": "Fake Atrium Token"
 }
