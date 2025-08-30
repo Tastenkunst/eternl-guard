@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "agentcardano.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1r97lwhngmjehv6yf5zrn60x6jesym6dvacmpr5"
+  ],
+  "description": "Fake $Agent token"
+}

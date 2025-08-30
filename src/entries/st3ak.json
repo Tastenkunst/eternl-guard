@@ -4,7 +4,8 @@
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1v3s0u7slss53k4lkz6h6anwle406t0ucrhmsqn"
+    "asset1v3s0u7slss53k4lkz6h6anwle406t0ucrhmsqn",
+    "asset1mrfn67h6g3w6f70hny8un5aq0kvcms53v877gn"
   ],
   "description": "Fake additional reward event for Steak.and.ADA pool"
 }
