@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "spirepool.com"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1azga0qe23achxx685ley0953zz5062chl48c65",
+    "asset1g6vskfnrjawl95f4sjn8ujgzn832e0auyx5waf"
+  ],
+  "description": "Fake Spire Pool Reward Claim"
+}

@@ -1,0 +1,12 @@
+{
+  "domains": [
+    "bladepool.org"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1dy43nusvnejkd3tu0gl6892vajcr7a4yy2xr3q",
+    "asset1rnr3j9jraasv3vzwhaag4y3sxsmm4marxsap6z",
+    "asset1kwh9974q5cpy678pf5trhjprhhtp9hmkqg3sl8"
+  ],
+  "description": "Fake Blade Pool Reward Claim"
+}
