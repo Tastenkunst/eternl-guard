@@ -15,7 +15,8 @@
     "wmt-rewards",
     "wmtevent.com",
     "wmtevent",
-    "wmtx-reward"
+    "wmtx-reward",
+    "wmtx.app"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -42,7 +43,8 @@
     "asset1yjz0v3m6a55etshfhfnr90kxknxkg65ge0fyrj",
     "asset13qnncgn7ddmgvumwds6e4luttmangtpeqs3e3s",
     "asset10843dz5vqla0d4jjn2xvdv7klktswyr2l94qaf",
-    "asset1p543knxw9heyvr0ug9mv78fhcpynvnl3y0prv2"
+    "asset1p543knxw9heyvr0ug9mv78fhcpynvnl3y0prv2",
+    "asset1zq2g0k6hmf05du6sqjrvm6m0779f0a3af7clcf"
   ],
   "description": "Fake Worldmobile Reward"
 }
