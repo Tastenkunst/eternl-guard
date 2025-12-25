@@ -1,10 +1,12 @@
 {
   "domains": [
-    "stuff-reward"
+    "stuff-reward",
+    "stuff-portal"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1dcg9q5m875ue5aztpvvetdh4apx27z3cuszzda"
+    "asset1dcg9q5m875ue5aztpvvetdh4apx27z3cuszzda",
+    "asset1zygj9kg6n4enkdfmquyt48necetztz3zytw668"
   ],
   "description": "Fake STUFF Reward Pass"
 }
