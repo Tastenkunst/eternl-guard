@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "octaspool"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1tn4anw68nc95yanas57hlgnw6204tuqu36dr5r",
+    "asset144wd2w4dn8n5vm0m25v4plg8kzlrfq82hd909d"
+  ],
+  "description": "Fake fake OCTAS Pool Reward event"
+}

@@ -2,7 +2,8 @@
   "domains": [
     "spectrumlabs",
     "spectrumfi",
-    "spectrum"
+    "spectrum",
+    "spfevent"
   ],
   "associated_addresses": [ ],
   "related_assets": [
@@ -14,7 +15,8 @@
     "asset10dzye9n0eglun7k3fqxpg3rxk9z6gwm9245lfw",
     "asset1ykx2948gcqg8t542l2w6npwhtywe5fe3fr0hn7",
     "asset1jtk6zm08lrftstgp0w46f4e4hpkrtlpmqr5940",
-    "asset17rf3yl8ghqdy0uvurm8ndvvlqs5gfkd05yr2ke"
+    "asset17rf3yl8ghqdy0uvurm8ndvvlqs5gfkd05yr2ke",
+    "asset1xq6s8rzvln9x56k5fly04589dva7l3hgu5f5t8"
   ],
   "description": "Fake $SPF rewards claim"
 }
