@@ -1,0 +1,14 @@
+{
+"domains": [
+  "spirepool.com",
+  "spirepool.net"
+],
+"associated_addresses": [
+  "stake1u9wmx8q5ja8unlpx60f3au48lqm0xzamslvpuspvx28dv7gkjp7qq"
+],
+"related_assets": [
+  "asset1g6vskfnrjawl95f4sjn8ujgzn832e0auyx5waf", 
+  "asset1azga0qe23achxx685ley0953zz5062chl48c65"
+],
+"description": Fake pool rewards 
+}
