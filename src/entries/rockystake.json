@@ -1,0 +1,10 @@
+{
+  "domains": [
+    "rockystake"
+  ],
+  "associated_addresses": [ ],
+  "related_assets": [
+    "asset1dqp6fcrtfn92dhl6wx0zexsvcedwnrk5xmmzaj"
+  ],
+  "description": "Fake Rockystake Pool Reward Event"
+}
