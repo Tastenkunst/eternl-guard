@@ -1,10 +1,12 @@
 {
   "domains": [
-    "rockystake"
+    "rockystake",
+    "rockycardano"
   ],
   "associated_addresses": [ ],
   "related_assets": [
-    "asset1dqp6fcrtfn92dhl6wx0zexsvcedwnrk5xmmzaj"
+    "asset1dqp6fcrtfn92dhl6wx0zexsvcedwnrk5xmmzaj",
+    "asset1l0t2lk3slj40qpc4eadzursy3e057nk3kpkepn"
   ],
   "description": "Fake Rockystake Pool Reward Event"
 }
